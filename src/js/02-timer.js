@@ -55,7 +55,7 @@ const options = {
         }
       }, 1000)
       
-      
+      console.log(time)
     });
 
     stopBtn.addEventListener('click', () => {
